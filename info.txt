@@ -2,3 +2,4 @@ Fonts:
 
 jetBrains Mono 
 
+ https://lib.rs/crates/pigmnts-cli
